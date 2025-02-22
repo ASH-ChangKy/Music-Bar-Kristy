@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/Music-Bar-Kristy/static/css/main.e6c13ad2.css",
-    "main.js": "/Music-Bar-Kristy/static/js/main.47d3225e.js",
+    "main.css": "/Music-Bar-Kristy/static/css/main.e5cdda46.css",
+    "main.js": "/Music-Bar-Kristy/static/js/main.0c736076.js",
     "static/js/453.92bb8402.chunk.js": "/Music-Bar-Kristy/static/js/453.92bb8402.chunk.js",
+    "static/media/pic_A.PNG": "/Music-Bar-Kristy/static/media/pic_A.49ab425cc1a010e12eab.PNG",
+    "static/media/pic_D.PNG": "/Music-Bar-Kristy/static/media/pic_D.879147c8d99e254ad438.PNG",
+    "static/media/logo_main_2.PNG": "/Music-Bar-Kristy/static/media/logo_main_2.5740ec1d189150257ed2.PNG",
+    "static/media/logo-main2.jpg": "/Music-Bar-Kristy/static/media/logo-main2.c1af425988a9294b3972.jpg",
     "index.html": "/Music-Bar-Kristy/index.html",
-    "main.e6c13ad2.css.map": "/Music-Bar-Kristy/static/css/main.e6c13ad2.css.map",
-    "main.47d3225e.js.map": "/Music-Bar-Kristy/static/js/main.47d3225e.js.map",
+    "main.e5cdda46.css.map": "/Music-Bar-Kristy/static/css/main.e5cdda46.css.map",
+    "main.0c736076.js.map": "/Music-Bar-Kristy/static/js/main.0c736076.js.map",
     "453.92bb8402.chunk.js.map": "/Music-Bar-Kristy/static/js/453.92bb8402.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.47d3225e.js"
+    "static/css/main.e5cdda46.css",
+    "static/js/main.0c736076.js"
   ]
 }

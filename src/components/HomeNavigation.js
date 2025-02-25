@@ -92,7 +92,7 @@ const Navigation = () => {
         ) : (
           <div style={{ marginLeft: 'auto', display: 'flex', alignItems: 'center' }}>
             <a
-              href="tel:+1234567890"
+              href="tel:+817090959996"
               style={{ color: '#fff', textDecoration: 'none', marginRight: '10px' }}
             >
               <PhoneOutlined style={{ fontSize: '20px' }} />
